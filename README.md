@@ -16,6 +16,7 @@
 [Sticky Navbar] https://cozy-cannoli-0c8d5d.netlify.app/
 [Vertical Slider] https://symphonious-gumption-5e7b01.netlify.app/
 [Navbar] https://willowy-sunflower-d6baf3.netlify.app/#java-script
+[Layout Setup - Grid] https://sage-halva-a0d9d1.netlify.app/
 
 
 
