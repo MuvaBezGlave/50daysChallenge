@@ -4506,16 +4506,17 @@ body {
 .white-text-container h3,
 .white-text-container h4,
 .white-text-container h5 {
-  color: #242323;
+  color: #f5efef;
 }
 .white-text-container p {
-  color: #333535;
+  color: #ede9e9;
+  font-weight: 600;
 }
 
 .white-text-container .btn-primary {
-  border-color: #fff;
+  border-color: rgb(244, 242, 242);
   background-color: transparent;
-  color: rgb(213, 207, 207);
+  color: rgb(233, 226, 226);
 }
 .white-text-container .btn-primary:hover {
   background-color: #8acfc5;
@@ -4600,7 +4601,7 @@ body {
   padding: 12% 0;
 }
 .overlay {
-  background-color: hsla(0, 20%, 93%, 0.2);
+  background-color: hsla(0, 17%, 2%, 0.2);
   position: absolute;
   top: 0;
   bottom: 0;
